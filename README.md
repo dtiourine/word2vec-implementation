@@ -4,7 +4,7 @@ Implementing various NLP model architectures and algorithms from scratch as exer
 ## Projects
 
 ### RNN for Movie Review Sentiment Analysis
-- **Location**: [RNN-Sentiment-Analysis/](https://github.com/dtiourine/nlp-implementations/tree/main/RNN-Sentiment-Analysis)
+- **Location**: `architectures/rnn_sentiment_analysis`
 - **Objective**: Implement a basic Recurrent Neural Network (RNN) to classify movie reviews into positive or negative sentiments.
 - **Techniques Used**: RNN, Word Embeddings, Sentiment Analysis
 - **Results/Outcome**: Gained insights into the workings of RNNs and their effectiveness in processing sequential data like text.
